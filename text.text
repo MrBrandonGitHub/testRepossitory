@@ -7,3 +7,4 @@ For (Contact c : Trigger.New) {
 	}
 }
 }
+// this is helpful
