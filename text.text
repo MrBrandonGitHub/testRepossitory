@@ -8,3 +8,5 @@ For (Contact c : Trigger.New) {
 }
 }
 // this is helpful
+
+// from VS Code
